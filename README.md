@@ -1,4 +1,4 @@
-<h1 align="center">Selamat Datang di Repositori Aescrypt! 👋🏻</h1>
+<h1 align="center">Selamat Datang di Repositori en-scrypt! 👋🏻</h1>
 
 <p align="center">
   <img src="https://github.com/syauqi/restawrant/assets/46257169/96204055-dbf7-4e19-ac1d-4a2d2ce8f449">
